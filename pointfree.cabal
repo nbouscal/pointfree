@@ -29,7 +29,7 @@ Library
   Build-depends: base >= 4.5 && < 4.12,
                  array >= 0.3 && < 0.6,
                  containers >= 0.4 && < 0.6,
-                 haskell-src-exts >= 1.18 && < 1.20,
+                 haskell-src-exts >= 1.18 && < 1.21,
                  transformers < 0.6
   Other-modules: Plugin.Pl.Common
                  Plugin.Pl.Parser
@@ -45,7 +45,7 @@ Executable pointfree
   Build-depends: base >= 4.3 && < 4.12,
                  array >= 0.3 && < 0.6,
                  containers >= 0.4 && < 0.6,
-                 haskell-src-exts >= 1.18 && < 1.20,
+                 haskell-src-exts >= 1.18 && < 1.21,
                  transformers < 0.6
   Other-modules: Plugin.Pl.Common
                  Plugin.Pl.Parser
